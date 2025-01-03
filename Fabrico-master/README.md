@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3f117a3c-eb01-4575-a4fd-45a325561fa2)
+
 # Fabrico - Fabric Defect Detection System
 
 Fabrico is an intelligent system designed for fabric defect detection using machine learning and computer vision techniques. It uses a combination of deep learning algorithms, image processing, and a web interface to detect defects in fabric for quality control in the textile industry.
